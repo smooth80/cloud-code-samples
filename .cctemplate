@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "version": "1"
+  },
+  "name": "Cloud Code Samples",
+  "templates": [
+    {
+      "path": "dotnet/dotnet-cloud-run-hello-world",
+      "name": ".NET Cloud Run Hello World",
+      "description": "A Cloud Run application that renders a simple webpage."
+    },
+    {
+      "path": "dotnet/dotnet-guestbook",
+      "name": ".NET Guestbook",
+      "description": "A two-service Kubernetes application."
+    },
+    {
+      "path": "dotnet/dotnet-hello-world",
+      "name": ".NET Hello World",
+      "description": "A Kubernetes application that renders a simple webpage."
+    },
+    {
+      "path": "golang/go-cloud-run-hello-world",
+      "name": "Go Cloud Run Hello World",
+      "description": "A Cloud Run application that renders a simple webpage."
+    },
+    {
+      "path": "golang/go-guestbook",
+      "name": "Go Guestbook",
+      "description": "A two-service Kubernetes application."
+    },
+    {
+      "path": "golang/go-hello-world",
+      "name": "Go Hello World",
+      "description": "A Kubernetes application that renders a simple webpage."
+    },
+    {
+      "path": "java/java-cloud-run-hello-world",
+      "name": "Java Cloud Run Hello World",
+      "description": "A Cloud Run application that renders a simple webpage."
+    },
+    {
+      "path": "java/java-guestbook",
+      "name": "Java Guestbook",
+      "description": "A two-service Kubernetes application."
+    },
+    {
+      "path": "java/java-hello-world",
+      "name": "Java Hello World",
+      "description": "A Kubernetes application that renders a simple webpage."
+    },
+    {
+      "path": "nodejs/nodejs-cloud-run-hello-world",
+      "name": "Node.js Cloud Run Hello World",
+      "description": "A Cloud Run application that renders a simple webpage."
+    },
+    {
+      "path": "nodejs/nodejs-guestbook",
+      "name": "Node.js Guestbook",
+      "description": "A two-service Kubernetes application."
+    },
+    {
+      "path": "nodejs/nodejs-hello-world",
+      "name": "Node.js Hello World",
+      "description": "A Kubernetes application that renders a simple webpage."
+    },
+    {
+      "path": "python/cloud-run-python-hello-world",
+      "name": "Python (Flask) Cloud Run Hello World",
+      "description": "A Cloud Run application that renders a simple webpage."
+    },
+    {
+      "path": "python/python-guestbook",
+      "name": "Python (Flask) Guestbook",
+      "description": "A two-service Kubernetes application."
+    },
+    {
+      "path": "python/python-hello-world",
+      "name": "Python (Flask) Hello World",
+      "description": "A Kubernetes application that renders a simple webpage."
+    },
+    {
+      "path": "python/cloud-run-django-hello-world",
+      "name": "Python (Django) Cloud Run Hello World",
+      "description": "A Cloud Run application that renders a simple webpage."
+    },
+    {
+      "path": "python/django/python-guestbook",
+      "name": "Python (Django) Guestbook",
+      "description": "A two-service Kubernetes application."
+    },
+    {
+      "path": "python/django/python-hello-world",
+      "name": "Python (Django) Hello World",
+      "description": "A Kubernetes application that renders a simple webpage."
+    }
+
+  ]
+}
